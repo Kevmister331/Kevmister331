@@ -1,6 +1,6 @@
 ### Hey! I'm Kevin 👋
-- 🔭 I’m currently working on ...
-- - 📫 Feel free to reach out via [linkedin](https://www.linkedin.com/in/kevin-hu1/) or directly via [email](mailto:kevinhu738@gmail.com)!
+- 🔭 I’m currently working on my poker chip software on Java!
+- 📫 Feel free to reach out via [linkedin](https://www.linkedin.com/in/kevin-hu1/) or directly via [email](mailto:kevinhu738@gmail.com)!
 <!--
 **Kevmister331/Kevmister331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
