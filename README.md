@@ -16,10 +16,3 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 |--|--|--|--|
-
-<br>
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/kevin-hu1/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-|--|
