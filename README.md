@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Kevin Hu <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer Intern** working at SAP.
+I'm a **Software Engineer Intern** working at SAP. I study computer science and business at UBC.
 
 ## Skill Set :muscle:
 
